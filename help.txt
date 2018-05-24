@@ -1,6 +1,8 @@
-git init
-git status
+git init //forlder initialization, add .git
+git status //status files
 git add . //add all files
-git commit -m "first commit"
-create repo on github.com
-git remote add origin git@github.com:furtel/site.git
+git commit -m "first commit" //write change with comment
+//create repo on github.com
+git remote add origin git@github.com:furtel/site.git //connect to github.com
+git push -u origin master //upload files on github.com
+git clone git@github.com:furtel/site.git //clone from github.com
