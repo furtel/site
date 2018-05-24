@@ -1,0 +1,4 @@
+git init
+git status
+git add . //add all files
+git commit -m "first commit"
